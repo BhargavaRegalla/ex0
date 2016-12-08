@@ -1,1 +1,1 @@
-# ex0
+This is learning curve
